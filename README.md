@@ -17,4 +17,4 @@ This project demonstrates data analysis and automation using Python.
 - Automation logic
 
 ## How to Run
-Open the notebook in Google Colab or Jupyter Notebook.
+Open the notebook in Google Colab Notebook.
