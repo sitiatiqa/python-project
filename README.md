@@ -18,3 +18,6 @@ This project demonstrates data analysis and automation using Python.
 
 ## How to Run
 Open the notebook in Google Colab Notebook.
+
+More projects will be added over time
+---
